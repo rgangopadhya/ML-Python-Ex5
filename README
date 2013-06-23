@@ -1,0 +1,3 @@
+Andrew Ng's Machine Learning Coursera Class: Exercise 5 (Diagnosing Bias/Variance using Learning Curves)
+
+First stab at learning Python and machine learning at the same time.  Pretty much a straight port from Octave/MATLAB to Python using NumPy/SciPy/Matplotlib etc etc.  Currently poorly commented but will revisit soon.
